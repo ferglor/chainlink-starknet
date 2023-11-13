@@ -9,7 +9,7 @@ require (
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b
 	github.com/smartcontractkit/caigo v0.0.0-20230621050857-b29a4ca8c704
 	github.com/smartcontractkit/chainlink-env v0.38.3
-	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885
+	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113161505-3ec81fef75d5
 	github.com/smartcontractkit/chainlink-starknet/ops v0.0.0-20230329050701-40e3b18bb026
 	github.com/smartcontractkit/chainlink-starknet/relayer v0.0.1-beta-test.0.20230901115736-bbabe542a918
 	github.com/smartcontractkit/chainlink/integration-tests v0.0.0-20231023200839-c1fc9d293ecc

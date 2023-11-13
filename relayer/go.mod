@@ -11,7 +11,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/smartcontractkit/caigo v0.0.0-20230621050857-b29a4ca8c704
-	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885
+	github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113161505-3ec81fef75d5
 	github.com/smartcontractkit/libocr v0.0.0-20230925165524-ffa38fe11ef8
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/multierr v1.11.0

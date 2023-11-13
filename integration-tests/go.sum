@@ -2351,12 +2351,8 @@ github.com/smartcontractkit/chainlink-cosmos v0.4.1-0.20230913032705-f924d753cc4
 github.com/smartcontractkit/chainlink-cosmos v0.4.1-0.20230913032705-f924d753cc47/go.mod h1:xMwqRdj5vqYhCJXgKVqvyAwdcqM6ZAEhnwEQ4Khsop8=
 github.com/smartcontractkit/chainlink-env v0.38.3 h1:ZtOnwkG622R0VCTxL5V09AnT/QXhlFwkGTjd0Lsfpfg=
 github.com/smartcontractkit/chainlink-env v0.38.3/go.mod h1:7z4sw/hN8TxioQCLwFqQdhK3vaOV0a22Qe99z4bRUcg=
-github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231110161309-4a4f0e1e5eb1 h1:X51tMGoAp/Hkf/Bk1XkOo6uZ92iWQ1qvi+5cCTmEvk4=
-github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231110161309-4a4f0e1e5eb1/go.mod h1:Xw4E3Ak9EYVWTVUZDu9Jecqd/Vv/2DW6iAx9/xFmpiI=
-github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231111012337-3c20a75830dd h1:GTO3HbsRgPROOd+B+VHp1oo6B+MmrvHC+ipLnAq55Ow=
-github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231111012337-3c20a75830dd/go.mod h1:M9U1JV7IQi8Sfj4JR1qSi1tIh6omgW78W/8SHN/8BUQ=
-github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885 h1:v4oGOFzyxQfNF/2ROcJV4F4o/XLg0vjjotxHfX6U5yo=
-github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113153002-175b94ca0885/go.mod h1:M9U1JV7IQi8Sfj4JR1qSi1tIh6omgW78W/8SHN/8BUQ=
+github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113161505-3ec81fef75d5 h1:rliw7KB1+2+x54lYTGOWYvF1fjHKEHxIBJ+EIo63uqM=
+github.com/smartcontractkit/chainlink-relay v0.1.7-0.20231113161505-3ec81fef75d5/go.mod h1:M9U1JV7IQi8Sfj4JR1qSi1tIh6omgW78W/8SHN/8BUQ=
 github.com/smartcontractkit/chainlink-solana v1.0.3-0.20231023133638-72f4e799ab05 h1:DaPSVnxe7oz1QJ+AVIhQWs1W3ubQvwvGo9NbHpMs1OQ=
 github.com/smartcontractkit/chainlink-solana v1.0.3-0.20231023133638-72f4e799ab05/go.mod h1:o0Pn1pbaUluboaK6/yhf8xf7TiFCkyFl6WUOdwqamuU=
 github.com/smartcontractkit/chainlink-testing-framework v1.17.12-0.20231018101901-23824db88d36 h1:ow84QG8vEHMvfjGg0RF8HNYh80WcHci6PIenXyY6K8Y=
