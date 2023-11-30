@@ -118,7 +118,7 @@ require (
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/smartcontractkit/chainlink-common v0.1.7-0.20231117021201-6814387d8d3e // indirect
+	github.com/smartcontractkit/chainlink-common v0.1.7-0.20231130233324-6b86e3430df3 // indirect
 	github.com/smartcontractkit/libocr v0.0.0-20230925165524-ffa38fe11ef8 // indirect
 	github.com/spf13/cobra v1.6.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
