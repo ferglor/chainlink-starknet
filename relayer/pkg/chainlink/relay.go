@@ -107,5 +107,9 @@ func (r *relayer) NewMercuryProvider(rargs relaytypes.RelayArgs, pargs relaytype
 }
 
 func (r *relayer) NewFunctionsProvider(rargs relaytypes.RelayArgs, pargs relaytypes.PluginArgs) (relaytypes.FunctionsProvider, error) {
-	return nil, errors.New("functions are not supported for solana")
+	return nil, errors.New("functions are not supported for starknet")
+}
+
+func (r *relayer) NewOCR2KeepersProvider(rargs relaytypes.RelayArgs, pargs relaytypes.PluginArgs) (relaytypes.OCR2KeepersProvider, error) {
+	return nil, errors.New("ocr2keepers is not supported for starknet")
 }
