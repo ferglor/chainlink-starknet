@@ -110,6 +110,6 @@ func (r *relayer) NewFunctionsProvider(rargs relaytypes.RelayArgs, pargs relayty
 	return nil, errors.New("functions are not supported for starknet")
 }
 
-func (r *relayer) NewOCR2KeepersProvider(rargs relaytypes.RelayArgs, pargs relaytypes.PluginArgs) (relaytypes.OCR2KeepersProvider, error) {
-	return nil, errors.New("ocr2keepers is not supported for starknet")
+func (r *relayer) NewAutomationProvider(rargs relaytypes.RelayArgs, pargs relaytypes.PluginArgs) (relaytypes.AutomationProvider, error) {
+	return nil, errors.New("automation is not supported for starknet")
 }
